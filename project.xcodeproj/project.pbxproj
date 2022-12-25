@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		790554802958570500203414 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7905547F2958570500203414 /* Game.swift */; };
 		79F872CD2954560500C5697E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79F872CC2954560500C5697E /* AppDelegate.swift */; };
 		79F872CF2954560500C5697E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79F872CE2954560500C5697E /* SceneDelegate.swift */; };
 		79F872D12954560500C5697E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79F872D02954560500C5697E /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7905547F2958570500203414 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 		79F872C92954560500C5697E /* project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = project.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		79F872CC2954560500C5697E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		79F872CE2954560500C5697E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				79F872CC2954560500C5697E /* AppDelegate.swift */,
 				79F872CE2954560500C5697E /* SceneDelegate.swift */,
 				79F872D02954560500C5697E /* ViewController.swift */,
+				7905547F2958570500203414 /* Game.swift */,
 				79F872D22954560500C5697E /* Main.storyboard */,
 				79F872D52954560600C5697E /* Assets.xcassets */,
 				79F872D72954560600C5697E /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				79F872D12954560500C5697E /* ViewController.swift in Sources */,
 				79F872CD2954560500C5697E /* AppDelegate.swift in Sources */,
 				79F872CF2954560500C5697E /* SceneDelegate.swift in Sources */,
+				790554802958570500203414 /* Game.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -437,6 +441,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V39H6KY552;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = project/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -449,7 +454,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = FirstProject.project;
+				PRODUCT_BUNDLE_IDENTIFIER = project;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -464,6 +469,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V39H6KY552;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = project/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -476,7 +482,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = FirstProject.project;
+				PRODUCT_BUNDLE_IDENTIFIER = project;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
