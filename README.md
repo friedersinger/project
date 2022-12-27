@@ -8,6 +8,8 @@ The code in the second file represents a class called ViewController which handl
 
 Both of these files are necessary for the hangman game because they contain the logic and UI elements that are required for the game to function. The Game struct is responsible for representing a single game of hangman and processing player guesses, while the ViewController class handles the overall game logic and manages the UI elements that display the game state to the player.
 
+I created the images for the trees with the apples in Photoshop. Just like the icon for the app.
+
 # Hangman
 
 Hangman is a word guessing game where the player must guess a hidden word before running out of incorrect moves.
