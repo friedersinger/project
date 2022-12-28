@@ -1,5 +1,5 @@
-# Hangman just with a Tree
-#### Video Demo:  <URL HERE>
+# Hangman just with a Tree / TREEMAN
+#### Video Demo:  <https://youtu.be/KKmHspSDAdE>
 #### Description:
 
 The code in the first file represents a struct called Game which represents a single game of hangman. The Game struct has three properties: word, which is the word that the player needs to guess; incorrectMovesRemaining, which is the number of incorrect moves that the player is allowed to make before losing the game; and guessedLetters, which is an array of the letters that the player has guessed so far. The Game struct also has a method called playerGuessed which processes a player's guess and updates the game state accordingly. It also has a computed property called formattedWord which returns the word with underscores for unguessed letters and correctly guessed letters.
