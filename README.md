@@ -32,6 +32,8 @@ Clone the repository or download the zip file
 Open the project in Xcode
 Build and run the project on a simulator or device
 
+![treeman1](https://user-images.githubusercontent.com/117061955/210339170-46ed4f8b-b0db-4981-8c0d-f4de1f56311d.jpg)
+
 # Credits
 
 This project was created by Frieder Singer as a learning exercise and the final project for the CS50 course at Harvard.
@@ -41,5 +43,5 @@ The UI was built using Interface Builder and the game logic was implemented in S
 
 This project is licensed under the MIT License.
 
-![treeman1](https://user-images.githubusercontent.com/117061955/210339170-46ed4f8b-b0db-4981-8c0d-f4de1f56311d.jpg)
+
 
