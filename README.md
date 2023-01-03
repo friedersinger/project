@@ -10,9 +10,9 @@ Both of these files are necessary for the hangman game because they contain the 
 
 I created the images for the trees with the apples in Photoshop. Just like the icon for the app.
 
-# Hangman
+# Treeman
 
-Hangman is a word guessing game where the player must guess a hidden word before running out of incorrect moves.
+Treeman is a word guessing game where the player must guess a hidden word before running out of incorrect moves.
 
 # Features
 
