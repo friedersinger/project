@@ -40,3 +40,6 @@ The UI was built using Interface Builder and the game logic was implemented in S
 # License
 
 This project is licensed under the MIT License.
+
+![treeman1](https://user-images.githubusercontent.com/117061955/210339170-46ed4f8b-b0db-4981-8c0d-f4de1f56311d.jpg)
+
